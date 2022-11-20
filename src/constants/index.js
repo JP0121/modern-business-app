@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer Nick some good pussy.",
+      "The best credit cards offer the best rewards and promotions.",
   },
   {
     id: "feature-2",
